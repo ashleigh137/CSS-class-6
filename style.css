@@ -1,0 +1,36 @@
+#demofixed
+{
+border: 1px solid black;
+position:fixed ;
+background-color: pink;
+right: 100px;
+top: 50px;
+}
+#demosticky
+{
+border: 1px solid black;
+position:sticky ;
+background-color: lightblue;
+top: 0px;
+}
+#demorelative
+{
+position: relative;
+width:300px ;
+height: 200px;
+background-color: pink;
+}
+#demoabsolute
+{
+    position:absolute;
+    top: 10px;
+    right: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+}
+#demo
+{
+    background-color: green;
+    opacity: 0.8;
+}
