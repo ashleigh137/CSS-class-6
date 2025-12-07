@@ -1,0 +1,74 @@
+#demofixed
+{
+border: 1px solid black;
+position:fixed ;
+background-color: brown;
+right: 100px;
+top: 50px;
+}
+#demosticky
+{
+border: 1px solid black;
+position:sticky ;
+background-color: burlywood;
+top: 0px;
+}
+#demorelative
+{
+position: relative;
+width:300px ;
+height: 200px;
+background-color: orange;
+}
+#demoabsolute
+{
+    position:absolute;
+    top: 10px;
+    right: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+#demo
+{
+    background-color: green;
+    opacity: 0.8;
+    
+}
+#demofixedd
+{
+border: 1px solid black;
+position:fixed ;
+background-color: pink;
+right: 100px;
+top: 360px;
+}
+#demostickyy
+{
+border: 1px solid black;
+position:sticky ;
+background-color: lightsalmon;
+top: 0px;
+}
+#demorelativee
+{
+position: relative;
+width:300px ;
+height: 200px;
+background-color: lightcyan;
+}
+#demoabsoluter
+{
+    position:absolute;
+    top: 10px;
+    right: 20px;
+    width: 100px;
+    height: 100px;
+    background-color:burlywood;
+}
+#demo
+{
+    background-color: green;
+    opacity: 0.8;
+    
+}
